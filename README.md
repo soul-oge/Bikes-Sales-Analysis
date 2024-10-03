@@ -7,7 +7,7 @@ This project focuses on analyzing bike-sharing data using SQL Server and Power B
 
 ### 1. Build a Database with SQL Server
 - **Description**: The first step was to create a SQL Server database to store the bike-sharing data.
-- **Database Setup**: The `bike_share_yr_1.csv` file was imported into the SQL Server database.
+- **Database Setup**: The files in the folder "main data source" were imported into the SQL Server database.
 - **Tools Used**: SQL Server Management Studio (SSMS).
 
 ---
@@ -52,7 +52,7 @@ This project focuses on analyzing bike-sharing data using SQL Server and Power B
 - **Charts Used**: Line charts, bar charts, and pie charts were used for data visualization.
 
 #### Image Placeholder:
-> ![Dashboard]("/Assets/Bike sales analysis.png")
+> ![Dashboard]("Assets/Bike sales analysis.png")
 
 ---
 
@@ -63,7 +63,7 @@ This project focuses on analyzing bike-sharing data using SQL Server and Power B
   - Peak usage times are between 8 AM and 9 AM, and between 5 PM and 6 PM.
 
 #### Image Placeholder:
-> ![Recommendations]("/Assets/Bike sales analysys recommandation.png")
+> ![Recommendations]("Assets/Bike sales analysys recommandation.png")
 
 ## Conclusion
 This project demonstrates how to build an end-to-end data analysis pipeline using SQL Server and Power BI. The final recommendations can help stakeholders make data-driven decisions to optimize the bike-sharing service.
